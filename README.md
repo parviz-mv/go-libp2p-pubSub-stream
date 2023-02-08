@@ -2,7 +2,7 @@
 
 ## Installation
 
-Before you start you need to clone this repository.
+Before start you need to clone this repository.
 
 Clone the go-libp2p-pubSub-stream repository:
 
